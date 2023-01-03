@@ -22,11 +22,11 @@
   </modules>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>nexus</id>
       <name>Landmark Technologies Mixed Nexus Repository</name>
       <url>http://44.211.27.193:8081/repository/maven-project/</url>
-    </site>
+    </repository>
   </distributionManagement>
 
   <build>
