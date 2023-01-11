@@ -154,6 +154,13 @@
         <version>1.8.5</version>
         <scope>test</scope>
       </dependency>
+             
+      <dependency>
+       <groupId>com.example.maven-project</groupId>
+       <artifactId>webapp</artifactId>
+       <version>1.0-20230105.075323-5</version>
+       <type>war</type>
+     </dependency>     
     </dependencies>
   </dependencyManagement>
 
